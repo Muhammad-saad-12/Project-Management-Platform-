@@ -1,0 +1,39 @@
+{
+  "name": "work-management-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.6.0",
+    "@prisma/client": "^6.4.1",
+    "@tailwindcss/postcss": "^4.3.5",
+    "bcryptjs": "^3.0.2",
+    "jiti": "^2.4.2",
+    "jsonwebtoken": "^9.0.2",
+    "next": "16.4.6",
+    "postcss": "^8.5.32",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "4.3.3",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.9",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.6",
+    "hermes-parser": "^0.37.0",
+    "prisma": "^6.4.1",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5"
+  }
+}
