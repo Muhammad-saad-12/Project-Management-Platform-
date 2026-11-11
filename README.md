@@ -35,26 +35,21 @@ The **Work Management Platform** is a full-stack, enterprise-ready collaborative
 ## 📸 Screenshots & Demos
 
 <!-- Demo / Screenshot Showcase -->
-<div align="center">
+## 📸 App Preview
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  Work Management Platform  •  Sprint Alpha Board                               [+ Task] │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  🔍 Search tasks...       Priority: [All ▼]   Assignee: [All ▼]    ⚡ Workspace Activity │
-├───────────────────┬────────────────────┬───────────────────┬───────────────────────────┤
-│    TO DO (3)      │  IN PROGRESS (2)   │   IN REVIEW (1)   │         DONE (4)          │
-├───────────────────┼────────────────────┼───────────────────┼───────────────────────────┤
-│ ┌───────────────┐ │ ┌────────────────┐ │ ┌───────────────┐ │ ┌───────────────────────┐ │
-│ │ Auth Flow     │ │ │ Kanban D&D     │ │ │ Audit Log     │ │ │ DB Migrations         │ │
-│ │ High Priority │ │ │ Urgent         │ │ │ Medium        │ │ │ Low Priority          │ │
-│ │ 👤 saad@..    │ │ │ 👤 dev@..      │ │ │ 👤 lead@..    │ │ │ 👤 admin@..           │ │
-│ └───────────────┘ │ └────────────────┘ │ └───────────────┘ │ └───────────────────────┘ │
-│ ┌───────────────┐ │                    │                   │                           │
-│ │ Activity Feed │ │                    │                   │                           │
-│ └───────────────┘ │                    │                   │                           │
-└───────────────────┴────────────────────┴───────────────────┴───────────────────────────┘
-```
+### 🖥️ Main Dashboard & Workspaces
+![Dashboard Preview](./public/screenshots/Dashboard.png)
+
+### 📋 Interactive Kanban Board & Filters
+![Kanban Board Preview](./public/screenshots/kanban-board.png)
+
+### 💬 Task Details & Threaded Comments
+![Task Drawer Preview](./public/screenshots/task-drawer.png)
+
+### ⚡ Activity Audit Log
+![Activity Log Preview](./public/screenshots/activity-log.png)
+
+
 
 > *Tip: To preview the high-resolution UI in your browser, launch the development server and navigate to `http://localhost:3000`.*
 
