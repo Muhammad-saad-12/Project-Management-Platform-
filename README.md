@@ -1,4 +1,4 @@
-# Work Management Platform
+# Project Management Platform
 
 <div align="center">
 
@@ -23,9 +23,9 @@ LIVE LINK : https://project-management-platform-eta.vercel.app
 
 ---
 
-## 📌 Executive Overview & Elevator Pitch
+## 📌 Overview & Summary
 
-The **Work Management Platform** is a full-stack, enterprise-ready collaborative project management application designed as an agile alternative to Jira and Trello. Engineered from the ground up to solve complex distributed team coordination challenges, it delivers multi-tenant workspaces, strict role-based access control (RBAC), an interactive 4-column drag-and-drop Kanban board, slide-over task drawers with real-time commenting, live activity audit trails, and multi-parameter search and filtering.
+The **Project Management Platform ** is a full-stack, enterprise-ready collaborative project management application designed as an agile alternative to Jira and Trello. Engineered from the ground up to solve complex distributed team coordination challenges, it delivers multi-tenant workspaces, strict role-based access control (RBAC), an interactive 4-column drag-and-drop Kanban board, slide-over task drawers with real-time commenting, live activity audit trails, and multi-parameter search and filtering.
 
 ### Key Highlights for Recruiters & Engineering Leads
 
