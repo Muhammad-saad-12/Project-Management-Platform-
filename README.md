@@ -34,9 +34,6 @@ The **Work Management Platform** is a full-stack, enterprise-ready collaborative
 
 ## 📸 Screenshots & Demos
 
-<!-- Demo / Screenshot Showcase -->
-## 📸 App Preview
-
 ### 🖥️ Main Dashboard & Workspaces
 ![Dashboard Preview](./public/screenshots/Dashboard.png)
 
