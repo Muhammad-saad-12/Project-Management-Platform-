@@ -27,7 +27,7 @@ LIVE LINK : https://project-management-platform-eta.vercel.app
 
 The **Project Management Platform ** is a full-stack, enterprise-ready collaborative project management application designed as an agile alternative to Jira and Trello. Engineered from the ground up to solve complex distributed team coordination challenges, it delivers multi-tenant workspaces, strict role-based access control (RBAC), an interactive 4-column drag-and-drop Kanban board, slide-over task drawers with real-time commenting, live activity audit trails, and multi-parameter search and filtering.
 
-### Key Highlights for Recruiters & Engineering Leads
+### Key Highlights
 
 - **Modern Architecture**: Built on Next.js 16 App Router with React 19 Server & Client components, utilizing full TypeScript end-to-end type safety.
 - **Multi-Tenant Isolation**: Complete isolation across workspaces with unique slug identifiers, role-based permissions (`ADMIN` vs `MEMBER`), and cascade safety guarantees.
